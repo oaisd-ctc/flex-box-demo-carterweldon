@@ -1,12 +1,12 @@
-div {text-align: center;text-decoration: dotted;;}
 
 body {background-color:darkgrey;}
 
 .flex-container {
-    display: flex;outline-style:auto;width: 600px;height: 300px;margin-left: 50px;padding-left: 50px;-ms-flex-align: center;
-  }
+    display:inline-block;outline-style:auto;width: 500px;height: 300px;margin-left: 50px;padding-left: 50px;text-align: center;
+}
+
 
   .flex-container2 {
-    display:flex;outline-style:auto;width: 600px;height: 300px;margin-left: 50px;padding-left: 50px;-ms-flex-align: center;align-items:flex-start;
+    display:inline-block;outline-style:auto;width: 500px;height: 300px;margin-left: 50px;padding-left: 50px;text-align: center;
 
   }

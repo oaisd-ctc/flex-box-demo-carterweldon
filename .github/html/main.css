@@ -27,7 +27,7 @@ article>div {
   flex: 1;
   margin: 1em;
   border: solid 1px white;
-  width:100%;
+  width:95%;
 }
 
 .flex-item {
@@ -46,7 +46,7 @@ article>div {
 }
 
 #flex-box-container{
-animation: pulse 2s infinite;
+animation: pulse 3s infinite;
 }
 
 
@@ -82,7 +82,7 @@ animation: pulse 2s infinite;
   background-color: grey;
   color: white;
   margin-left: .5em;
-animation: pulse 2s infinite;
+animation: pulse 3s infinite;
   
 }
 
